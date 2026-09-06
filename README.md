@@ -148,7 +148,11 @@ Possible future enhancements include:
 ## Clone the repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/ShaliniKujur007/QR-Code.git
+=======
+git clone https://github.com/njhoro10/QR-Code-Generator-and-Scanner.git
+>>>>>>> 977575d549ef69907b77acbc1fc551b271f7db2f
 ```
 
 ## Navigate to the project folder
@@ -230,9 +234,15 @@ Contributions are welcome!
 
 # 👩‍💻 Author
 
+<<<<<<< HEAD
 **Shalini Kujur**
 
 - GitHub: https://github.com/ShaliniKujur007
+=======
+**Nitya Jyoti Horo**
+
+- GitHub: https://github.com/njhoro10
+>>>>>>> 977575d549ef69907b77acbc1fc551b271f7db2f
 
 
 ---
