@@ -230,9 +230,9 @@ Contributions are welcome!
 
 # 👩‍💻 Author
 
-**Shalini Kujur**
+**Nitya Jyoti Horo**
 
-- GitHub: https://github.com/ShaliniKujur007
+- GitHub: https://github.com/njhoro10
 
 
 ---
