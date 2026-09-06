@@ -148,7 +148,7 @@ Possible future enhancements include:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/ShaliniKujur007/QR-Code.git
+git clone https://github.com/njhoro10/QR-Code-Generator-and-Scanner.git
 ```
 
 ## Navigate to the project folder
