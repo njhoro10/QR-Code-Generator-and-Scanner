@@ -237,7 +237,7 @@ Contributions are welcome!
 <<<<<<< HEAD
 **Nitya Jyoti Horo**
 
-- GitHub: https://github.com/ShaliniKujur007
+- GitHub:https://github.com/njhoro10
 =======
 **Nitya Jyoti Horo**
 
