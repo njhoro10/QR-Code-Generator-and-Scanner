@@ -1,4 +1,4 @@
-# 📱 QR Code Generator
+# 📱 QR Code Generator and Scanner
 
 A simple and responsive web application that generates QR codes instantly from user input. Built with HTML, CSS, JavaScript, Node.js, and Express.js, the application provides an easy way to convert text, URLs, or other information into scannable QR codes.
 
@@ -6,7 +6,7 @@ A simple and responsive web application that generates QR codes instantly from u
 
 # 📖 Introduction
 
-The QR Code Generator is a web application designed to create QR codes quickly and efficiently. Users can enter text or URLs, generate a QR code instantly, and use it for sharing information across devices.
+The QR Code Generator and Scanner is a web application designed to create QR codes quickly and efficiently. Users can enter text or URLs, generate a QR code instantly, and use it for sharing information across devices.
 
 This project was developed to practice full-stack web development, server-side programming, and user interface design.
 
@@ -235,7 +235,7 @@ Contributions are welcome!
 # 👩‍💻 Author
 
 <<<<<<< HEAD
-**Shalini Kujur**
+**Nitya Jyoti Horo**
 
 - GitHub: https://github.com/ShaliniKujur007
 =======
